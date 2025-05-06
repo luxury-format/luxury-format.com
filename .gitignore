@@ -1,0 +1,21 @@
+# Hugo build output
+/public/
+/resources/
+
+# npm / Node modules
+/node_modules/
+
+# Environment files
+.env
+
+# IDE / OS artifacts
+.DS_Store
+Thumbs.db
+
+# Caches & temp
+.cache/
+tmp/
+
+# Local config I don’t want in Git
+config.json
+nginx.conf
